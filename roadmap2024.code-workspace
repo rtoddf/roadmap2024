@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../pdfs"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "roadmap2024"
+  }
+}
